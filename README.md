@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MithunKirubaSK/MithunKirubaSK/main/banner.png" width="100%" />
+
 # 👋 Hi, I'm Mithun Kiruba S K
 
 🎓 Artificial Intelligence & Data Science Student
